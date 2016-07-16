@@ -1,0 +1,20 @@
+{
+  "name": "project_alpha",
+  "version": "1.0.0",
+  "description": "Web app for TA charting",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yinghang/project_alpha.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yinghang/project_alpha/issues"
+  },
+  "homepage": "https://github.com/yinghang/project_alpha#readme"
+}

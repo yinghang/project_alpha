@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/yinghang/project_alpha/issues"
   },
-  "homepage": "https://github.com/yinghang/project_alpha#readme"
+  "homepage": "https://github.com/yinghang/project_alpha#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
 }
